@@ -1,8 +1,8 @@
 ## Pix Material You Light/Dark
 
- [Privacy Policy](https://pashapuma.github.io/Wallpapers_app/policy) 
+ [Privacy Policy](https://pashapuma.github.io/pixMaterial/you_light_dark/policy) 
 
- [Terms and Conditions](https://pashapuma.github.io/Wallpapers_app/terms)
+ [Terms and Conditions](https://pashapuma.github.io/pixMaterial/you_light_dark/terms)
 
 
 
