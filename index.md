@@ -1,6 +1,12 @@
-## Pix Material Icons Packs
+## PashaPuma Design Apps
 
+**Icon Packs**
  [Pix Material You Light/Dark](https://pashapuma.github.io/pixMaterial/you_light_dark) 
+ [Pix-Pie Icon Pack](https://pashapuma.github.io/pixMaterial/pix_pie) 
+ 
+ **Wallpapers**
+ [Pix Wallpapers](https://pashapuma.github.io/Wallpapers_app/) 
+ 
 
 
 
