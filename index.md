@@ -8,7 +8,7 @@
  
  [Pix Monochrome Icon Pack](https://pashapuma.github.io/pixMaterial/monochrome) 
  
- [Pix Monochrome Icon Pack](https://pashapuma.github.io/pixMaterial/material_reborn) 
+ [Material Reborn Icon Pack](https://pashapuma.github.io/pixMaterial/material_reborn) 
  
  **Wallpapers**
  
