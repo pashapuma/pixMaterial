@@ -10,6 +10,8 @@
  
  [Material Reborn Icon Pack](https://pashapuma.github.io/pixMaterial/material_reborn) 
  
+ [Pix Flat Icon Pack](https://pashapuma.github.io/pixMaterial/pix_flat) 
+ 
  **Wallpapers**
  
  [Pix Wallpapers](https://pashapuma.github.io/Wallpapers_app/) 
