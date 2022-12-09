@@ -2,6 +2,8 @@
 
 **Icon Packs**
 
+ [OneYou Themed Icon Pack](https://pashapuma.github.io/pixMaterial/oneyou_themed) 
+
  [OneYou Icon Pack](https://pashapuma.github.io/pixMaterial/oneyou) 
  
  [OneYou Accent Icon Pack](https://pashapuma.github.io/pixMaterial/oneyou_accent) 
