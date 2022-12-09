@@ -1,4 +1,4 @@
-## OneYou Light/Dark
+## OneYou Themed
 
  [Privacy Policy](https://pashapuma.github.io/pixMaterial/oneyou_themed/policy) 
 
