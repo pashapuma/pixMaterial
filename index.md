@@ -20,7 +20,7 @@
  
  **Wallpapers**
  
- [Pix Wallpapers](https://pashapuma.github.io/Wallpapers_app/) 
+ [Pix Wallpapers](https://pashapuma.github.io/pixMaterial/pix_wallpapers) 
  
 
 
