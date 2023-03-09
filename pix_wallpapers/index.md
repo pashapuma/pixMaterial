@@ -1,15 +1,9 @@
-## Pix Wallpapers
-
- [Privacy Policy](https://pashapuma.github.io/pix_wallpapers/policy) 
-
- [Terms and Conditions](https://pashapuma.github.io/pix_wallpapers/terms)
-
-
-
-
-
-# Pix Wallpapers app
+## Pix Wallpapers app
 These wallpapers were drawn or edited by me for my icon packs.
+
+ [Privacy Policy](https://pashapuma.github.io/pixMaterial/pix_wallpapers/policy) 
+
+ [Terms and Conditions](https://pashapuma.github.io/pixMaterial/pix_wallpapers/terms)
 
 ## Copyright infringement is prohibited.  
 It is also forbidden to use these *.png, *.jpg in other applications.  
