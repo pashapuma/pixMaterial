@@ -12,13 +12,13 @@ Terms of Service
 
 Privacy Policy
 
- [Terms of Service Pix Material](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMaterial)
+ [Privacy Policy Pix Material](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMaterial)
 
- [Terms of Service Pix Material Dark](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMaterialDark)
+ [Privacy Policy Pix Material Dark](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMaterialDark)
 
- [Terms of Service Pix Material Luminous](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMaterialLuminous)
+ [Privacy Policy Pix Material Luminous](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMaterialLuminous)
 
- [Terms of Service Pix Minimal Black/White](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMinimal)
+ [Privacy Policy Pix Minimal Black/White](https://pashapuma.github.io/pixMaterial/PixMaterials_iconPacks/policy/PixMinimal)
 
 
 **Bold** and _Italic_ and `Code` text
