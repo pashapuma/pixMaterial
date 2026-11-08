@@ -1,8 +1,8 @@
 ## Pix Material You Light/Dark
 
- [Privacy Policy](https://pashapuma.github.io/pixMaterial/iMaterial/policy) 
+ [Privacy Policy](https://pashapuma.github.io/pixMaterial/iMaterialLight/policy) 
 
- [Terms and Conditions](https://pashapuma.github.io/pixMaterial/iMaterial/terms)
+ [Terms and Conditions](https://pashapuma.github.io/pixMaterial/iMaterialLight/terms)
 
 
 
